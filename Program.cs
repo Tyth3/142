@@ -1,4 +1,6 @@
-﻿using System;
+// Tyler Ford
+
+using System;
 
 namespace TEST
 {
